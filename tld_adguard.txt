@@ -113,7 +113,7 @@
 ||agency^
 ||marketing^
 ||media^
-||social^
+
 ||studio^
 ||design^
 ||style^
