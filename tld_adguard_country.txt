@@ -1,0 +1,23 @@
+! Titel: AdGuard DNS Blocklist - Autokratien & Konfliktstaaten
+||ru^
+||by^
+||sy^
+||ir^
+||af^
+||ye^
+||ly^
+||cn^
+||kp^
+||mm^
+||la^
+||tm^
+||uz^
+||tj^
+||sd^
+||ss^
+||er^
+||cf^
+||gq^
+||ve^
+||cu^
+||ni^
