@@ -917,7 +917,6 @@
 @@||kirkler-treff.saarland^$important
 @@||social.chiefgyk3d.com^$important
 @@||dustbuster.club^$important
-@@||meow.social^$important
 @@||mallegolhansen.com^$important
 @@||mastodon.zip^$important
 @@||indexof.co.uk^$important
@@ -2834,7 +2833,6 @@
 @@||someplace.social^$important
 @@||pjsekai.world^$important
 @@||rwx.ch^$important
-@@||posting.lolicon.rocks^$important
 @@||gotosocial-dev.svc.0x0a.network^$important
 @@||toots.niark.nexus^$important
 @@||social.cloud-kingdom.one^$important
@@ -5013,7 +5011,6 @@
 @@||fedi.raventhemaker.com^$important
 @@||social.golemwire.com^$important
 @@||twiddlebang.org^$important
-@@||mstdn.social^$important
 @@||gts.0x7be.net^$important
 @@||rls.social^$important
 @@||gts.trycht.cz^$important
@@ -5192,7 +5189,6 @@
 @@||det.social^$important
 @@||halo.nu^$important
 @@||librem.one^$important
-@@||mastodon.uno^$important
 @@||muenchen.social^$important
 @@||sunny.garden^$important
 @@||app.wafrn.net^$important
@@ -5523,7 +5519,6 @@
 @@||ni.hil.ist^$important
 @@||gts.mkljczk.pl^$important
 @@||social.edps.europa.eu^$important
-@@||defcon.social^$important
 @@||mstdn.funil.de^$important
 @@||trentontube.trentonhoshiko.com^$important
 @@||yem.bouncingaroundtheroom.online^$important
@@ -5675,7 +5670,6 @@
 @@||1m2lab.anvil.top^$important
 @@||sausage.social^$important
 @@||ignifi.social^$important
-@@||alovely.space^$important
 @@||fedimedi.com^$important
 @@||vacatureforum.nl^$important
 @@||ramen-fsm.eu.org^$important
@@ -6373,7 +6367,6 @@
 @@||lemmy.stage.anoxinon.de^$important
 @@||mastodon.ie^$important
 @@||torostalk.com^$important
-@@||fosstodon.org^$important
 @@||autisticpri.de^$important
 @@||social.anoxinon.de^$important
 @@||alive.bar^$important
@@ -6857,7 +6850,6 @@
 @@||mastodon.fiveop.de^$important
 @@||blahaj.art^$important
 @@||social.kernel.org^$important
-@@||unredacted.social^$important
 @@||disobey.net^$important
 @@||pet.tax^$important
 @@||mastodon.24bit48khz.de^$important
@@ -7110,7 +7102,6 @@
 @@||punkstodon.de^$important
 @@||ghostdub.de^$important
 @@||jorts.horse^$important
-@@||dragon.style^$important
 @@||okun.org^$important
 @@||madverse.city^$important
 @@||fedi.spline.de^$important
@@ -7224,7 +7215,6 @@
 @@||social.tech-alex.de^$important
 @@||smithandtech.space^$important
 @@||uri.life^$important
-@@||floss.social^$important
 @@||mastodon.cocamserverguild.com^$important
 @@||hear-me.social^$important
 @@||social.gbrands.de^$important
@@ -7239,7 +7229,6 @@
 @@||mastodon.digitaladriatic.eu^$important
 @@||blog.boozybeggar.com^$important
 @@||cupoftea.social^$important
-@@||mastodon.social^$important
 @@||norden.social^$important
 @@||mastodontech.de^$important
 @@||snac.sns.gdn^$important
@@ -7331,13 +7320,24 @@
 @@||wisskomm.social^$important
 @@||ohai.social^$important
 @@||www.zeit-fuer-gesundheit-trier.de^$important
+@@||fosstodon.org^$important
+@@||mastodon.uno^$important
+@@||unredacted.social^$important
 @@||snac.sabatino.cloud^$important
 @@||laserdisc.party^$important
+@@||mastodon.social^$important
 @@||fe.disroot.org^$important
+@@||defcon.social^$important
 @@||fedifreun.de^$important
 @@||oldbytes.space^$important
+@@||meow.social^$important
 @@||transmom.love^$important
 @@||bahn.social^$important
+@@||sueden.social^$important
+@@||alovely.space^$important
+@@||dragon.style^$important
+@@||floss.social^$important
+@@||mstdn.social^$important
 @@||annameurer.com^$important
 @@||toot.wales^$important
 @@||friendica.katholisch.social^$important
@@ -7387,7 +7387,6 @@
 @@||social.losno.co^$important
 @@||unkn.uk^$important
 @@||m.bonzoesc.net^$important
-@@||sueden.social^$important
 @@||xscape.zclan.cc^$important
 @@||pitha.social^$important
 @@||krefeld.life^$important
